@@ -14,10 +14,7 @@ Caractéristiques de l’écran
     320 * 480 pixels
     65536 couleurs
 
- 
 
-    L’écran seul – Disponible ici
-    L’écran & boitier de protection – Disponible ici
 
 Installation des drivers et résolution du problème d’écran blanc Raspberry Pi
 
