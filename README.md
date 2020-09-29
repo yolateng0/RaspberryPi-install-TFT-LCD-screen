@@ -19,7 +19,7 @@ Caractéristiques de l’écran
 
 
 
-## Installation des drivers et résolution du problème d’écran blanc Raspberry Pi
+### Installation des drivers et résolution du problème d’écran blanc Raspberry Pi
 
 Au commencement, l'écran se fiche sur les broches gpio du Raspberry Pi. 
 
@@ -35,7 +35,7 @@ Puis entrer dans le terminal et d’y inscrire ces quelques lignes pour installe
 
 Après redémarrage du Raspberry Pi vous devriez voir apparaitre le desktop de Raspbian sur votre petit écran 🙂
 
-#Désactiver l’écran LCD 3.5 du raspberry pi et retourner vers un écran HDMI
+### Désactiver l’écran LCD 3.5 du raspberry pi et retourner vers un écran HDMI
 
 Lorsque votre écran est “activé” sur le Raspberry pi, vous ne pouvez plus utiliser d’écran standard sur la sortie HDMI. Si vous avez le besoin de faire marche arrière et de retourner a un écran classique vous devrez tapez les ligne suivante:
 
@@ -43,4 +43,4 @@ Lorsque votre écran est “activé” sur le Raspberry pi, vous ne pouvez plus 
     cd LCD-show/
     sudo ./LCD-hdmi
 
-#Pour ceux qui voudraient sauter cette étape, sachez qu’il existe des Raspbian Custom intégrant directement les drivers pour l’écran. Vous pouvez les trouver à cet adresse en bas de page: http://www.lcdwiki.com/3.5inch_RPi_Display .
+### Pour ceux qui voudraient sauter cette étape, sachez qu’il existe des Raspbian Custom intégrant directement les drivers pour l’écran. Vous pouvez les trouver à cet adresse en bas de page: http://www.lcdwiki.com/3.5inch_RPi_Display .
