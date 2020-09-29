@@ -21,11 +21,11 @@ Caractéristiques de l’écran
 
 ### Installation des drivers et résolution du problème d’écran blanc Raspberry Pi
 
-Au commencement, l'écran se fiche sur les broches gpio du Raspberry Pi. 
+L'écran s'installe sur les broches gpio du Raspberry Pi. {l'alimentation par gpio)
 
-L’écran affiche un écran blanc.
+L’écran s'allume mais affiche un écran blanc.
 
-Puis entrer dans le terminal et d’y inscrire ces quelques lignes pour installer les drivers de l’ecran lcd 3.5 sur votre Raspberry pi.
+Commandes dans le Terminal : inscrire ces quelques lignes pour installer les drivers de l’ecran lcd 3.5 sur votre Raspberry pi.
 
     sudo rm -rf LCD-show
     git clone https://github.com/goodtft/LCD-show.git
@@ -33,7 +33,7 @@ Puis entrer dans le terminal et d’y inscrire ces quelques lignes pour installe
     cd LCD-show/
     sudo ./LCD35-show
 
-Après redémarrage du Raspberry Pi vous devriez voir apparaitre le desktop de Raspbian sur votre petit écran 🙂
+Après redémarrage du Raspberry Pi vous devriez voir apparaitre le bureau Raspbian (OS de votre choix) sur votre petit écran 🙂
 
 ### Désactiver l’écran LCD 3.5 du raspberry pi et retourner vers un écran HDMI
 
