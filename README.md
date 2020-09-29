@@ -1,6 +1,6 @@
-# RaspiInstall3.5Screen
+#Installation écran 3.5 pouces pour Raspberry Pi 2 ET 3 B/B+/A+/A/B
 
-Installation écran 3.5 pouces pour Raspberry Pi 2 ET 3 B/B+/A+/A/B
+![alt text](https://images-na.ssl-images-amazon.com/images/I/7115DVSOKfL._SL1500_.jpg)
 
 Alimentation par broches GPIO
 
