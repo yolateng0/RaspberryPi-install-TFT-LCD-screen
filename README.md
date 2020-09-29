@@ -1,12 +1,13 @@
-# Installation écran 3.5 pouces pour Raspberry Pi 2 ET 3 B/B+/A+/A/B
+# Installation du driver et calibrage pour les écrans 2.4" 2.8" 3.2" 3.5" 5.0" 7.0" TFT LCD 
+pour Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W 
 
 ### sources = https://github.com/goodtft/LCD-show
 
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/7115DVSOKfL._SL1500_.jpg)
 
-Alimentation par broches GPIO
+# Exemple installation d'un écran de 3.5 pouces
 
-Configurer l’écran 3.5 inch TFT LCD Touch Screen avec le Raspberry Pi
+Configurer l’écran 3.5 inch TFT LCD Touch Screen avec le Raspberry Pi; Alimentation par broches GPIO
 
 Caractéristiques de l’écran
 
@@ -41,6 +42,5 @@ Lorsque votre écran est “activé” sur le Raspberry pi, vous ne pouvez plus 
     chmod -R 755 LCD-show
     cd LCD-show/
     sudo ./LCD-hdmi
-
 
 #Pour ceux qui voudraient sauter cette étape, sachez qu’il existe des Raspbian Custom intégrant directement les drivers pour l’écran. Vous pouvez les trouver à cet adresse en bas de page: http://www.lcdwiki.com/3.5inch_RPi_Display .
