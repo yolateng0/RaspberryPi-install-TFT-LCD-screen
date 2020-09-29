@@ -3,7 +3,7 @@ pour Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
 
 ### sources = https://github.com/goodtft/LCD-show
 
-![alt text](https://images-na.ssl-images-amazon.com/images/I/7115DVSOKfL._SL1500_.jpg)
+![alt text](https://repository-images.githubusercontent.com/299724210/92c15280-02a3-11eb-8911-1f03693839a5)
 
 # Exemple installation d'un écran de 3.5 pouces
 
